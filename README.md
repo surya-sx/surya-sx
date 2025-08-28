@@ -97,9 +97,7 @@ const surya = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sx&layout=compact&theme=aura&hide_border=true&bg_color=1F222E&title_color=6366F1" />
 </div>
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=surya-sx&theme=aura&hide_border=true&background=1F222E&ring=6366F1&fire=F8D866&currStreakLabel=F8D866" width="70%"/>
-</div>
+
 
 <h2 align="center">Let's Connect</h2>
 
