@@ -1,86 +1,134 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <h1>Hi there, I'm Surya <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-  <p align="center">
-     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast;Always+learning+new+things">
-     </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,16,30&height=200&section=header&text=Hi,%20I'm%20Surya&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%26%20Developer&descSize=22&descAlignY=50&animation=fadeIn" width="100%"/>
 </div>
-
-<div align="center">
-  <img src="https://github.com/surya-sx/surya-sx/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 👨‍💻 All of my projects are available at **[Portfolio Website]**
-- 📫 How to reach me: **youremail@example.com**
-- ⚡ Fun fact: **[Something interesting about yourself]**
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
 
 <p align="center">
-
-- **Languages**:
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-- **Front-End Development**:
-
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- **Back-End Development**:
-
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-- **Database**:
-
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **DevOps & Cloud Tools**:
-
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=550&height=45&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230px" style="border-radius:50%; margin-bottom:20px;" alt="Coding gif">
+</p>
+
+<p align="center">
+  Passionate software engineer with expertise in full-stack development. I love creating elegant solutions to complex problems and building intuitive, user-friendly applications. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sharing knowledge with the developer community.
+</p>
+
+```typescript
+const surya = {
+  location: "Earth, Milky Way",
+  currentFocus: "Building amazing web experiences",
+  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  interests: ["Web Development", "UI/UX", "AI", "Open Source"],
+  challenge: "Learning something new every day",
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<h2 align="center">Tech Expertise</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+</p>
+
+<p align="center">
+  <!-- LANGUAGES -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="28" />
+</p>
+
+<p align="center">
+  <!-- FRONTEND -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" height="28" />
+</p>
+
+<p align="center">
+  <!-- BACKEND -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="28" />
+</p>
+
+<p align="center">
+  <!-- DATABASE -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="28" />
+</p>
+
+<p align="center">
+  <!-- DEVOPS & CLOUD -->
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="28" />
+</p>
+
+<p align="center">
+  <!-- TOOLS & OTHERS -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="28" />
+</p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=surya-sx&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Surya's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sx&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" />
+  <h3>Currently Exploring</h3>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat-square&logo=solidity&logoColor=black" height="28" />
+</div>
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surya-sx&count_private=true&show_icons=true&theme=aura&hide_border=true&bg_color=1F222E&title_color=6366F1&icon_color=F8D866" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sx&layout=compact&theme=aura&hide_border=true&bg_color=1F222E&title_color=6366F1" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-sx&theme=tokyonight&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=surya-sx&theme=aura&hide_border=true&background=1F222E&ring=6366F1&fire=F8D866&currStreakLabel=F8D866" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surya-sx&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=surya-sx&theme=discord&no-frame=true&no-bg=true&column=7&title=MultiLanguage,Stars,Commits,Repositories,PR,Issues,Followers" width="98%" alt="Trophy" />
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
+<h2 align="center">Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/surya-sx/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-1&theme=aura&hide_border=true&bg_color=1F222E" />
+  </a>
+  <a href="https://github.com/surya-sx/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-2&theme=aura&hide_border=true&bg_color=1F222E" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/surya-sx/project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-3&theme=aura&hide_border=true&bg_color=1F222E" />
+  </a>
+  <a href="https://github.com/surya-sx/project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-4&theme=aura&hide_border=true&bg_color=1F222E" />
+  </a>
+</div>
+
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
@@ -89,39 +137,18 @@
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website"/>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </p>
-
-## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> Latest Projects
-
-<div align="center">
-  <a href="https://github.com/surya-sx/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/surya-sx/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-2&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/surya-sx/project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-3&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/surya-sx/project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-4&theme=tokyonight" />
-  </a>
-</div>
-
-## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-sx&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=surya-sx&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=surya-sx&label=Profile%20views&color=008B8B&style=flat" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,16,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
