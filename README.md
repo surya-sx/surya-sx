@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,16,30&height=200&section=header&text=Hi,%20I'm%20Surya&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%26%20Developer&descSize=22&descAlignY=50&animation=fadeIn" width="100%"/>
-</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,7 +12,7 @@
 </p>
 
 <p align="center">
-  Passionate software engineer with expertise in full-stack development. I love creating elegant solutions to complex problems and building intuitive, user-friendly applications. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sharing knowledge with the developer community.
+  Passionate Electrical Engineer with expertise in full-stack development. I love creating elegant solutions to complex problems and building intuitive, user-friendly applications. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sharing knowledge with the developer community.
 </p>
 
 ```typescript
@@ -104,46 +101,16 @@ const surya = {
   <img src="http://github-readme-streak-stats.herokuapp.com?user=surya-sx&theme=aura&hide_border=true&background=1F222E&ring=6366F1&fire=F8D866&currStreakLabel=F8D866" width="70%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surya-sx&theme=discord&no-frame=true&no-bg=true&column=7&title=MultiLanguage,Stars,Commits,Repositories,PR,Issues,Followers" width="98%" alt="Trophy" />
-</div>
-
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/surya-sx/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-1&theme=aura&hide_border=true&bg_color=1F222E" />
-  </a>
-  <a href="https://github.com/surya-sx/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-2&theme=aura&hide_border=true&bg_color=1F222E" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/surya-sx/project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-3&theme=aura&hide_border=true&bg_color=1F222E" />
-  </a>
-  <a href="https://github.com/surya-sx/project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surya-sx&repo=project-4&theme=aura&hide_border=true&bg_color=1F222E" />
-  </a>
-</div>
-
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/surya-b-4703122a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+
+  <a href="mailto:myselfsuryaaz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surya-sx&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
